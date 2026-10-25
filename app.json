@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "PokéDex Explorer",
+    "slug": "pokedex-explorer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#DC2626"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {}
+  }
+}
